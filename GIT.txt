@@ -1,1 +1,10 @@
-dassafa
+Jedna
+Dva
+Tri
+Styri
+Pat
+Sest
+Sedem
+Osem
+Devat
+Desat
