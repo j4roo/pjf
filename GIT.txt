@@ -4,6 +4,7 @@ Tri
 Styri
 Pat
 Sest
+Sest a pol
 Sedem
 Osem
 Devat
