@@ -9,3 +9,5 @@ Sedem
 Osem
 Devat
 Desat
+Jedenast
+Dvanast 
